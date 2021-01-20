@@ -1,0 +1,6 @@
+[submodule "diagrams-server"]
+	path = diagrams-server
+	url = https://github.com/suapapa/diagrams-server
+[submodule "diagrams-front"]
+	path = diagrams-front
+	url = https://github.com/suapapa/diagrams-front
