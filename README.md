@@ -6,3 +6,8 @@ Web sandbox for Diagrams by mingrammer.
 
 * diagrams-server: backend
 * diagrams-front: frontend
+
+## install
+
+    $ git submodule init
+    $ git submodule update
