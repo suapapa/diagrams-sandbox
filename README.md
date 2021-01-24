@@ -11,3 +11,10 @@ Web sandbox for Diagrams by mingrammer.
 
     $ git submodule init
     $ git submodule update
+
+## build and run
+
+    $ make
+    $ cd out
+    $ ./server
+
