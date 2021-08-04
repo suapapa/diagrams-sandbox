@@ -1,6 +1,6 @@
 [submodule "diagrams-front"]
 	path = diagrams-front
-	url = https://github.com/suapapa/diagrams-front
+	url = git@github.com:suapapa/diagrams-front.git
 [submodule "diagrams-back"]
 	path = diagrams-back
-	url = https://github.com/suapapa/diagrams-back
+	url = git@github.com:suapapa/diagrams-back.git
