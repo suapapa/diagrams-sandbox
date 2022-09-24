@@ -1,6 +1,0 @@
-[submodule "diagrams-front"]
-	path = diagrams-front
-	url = git@github.com:suapapa/diagrams-front.git
-[submodule "diagrams-back"]
-	path = diagrams-back
-	url = git@github.com:suapapa/diagrams-back.git
