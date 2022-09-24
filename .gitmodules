@@ -1,0 +1,9 @@
+[submodule "diagrams_fe"]
+	path = diagrams_fe
+	url = https://github.com/suapapa/diagrams_fe
+[submodule "diagrams_be"]
+	path = diagrams_be
+	url = https://github.com/suapapa/diagrams_be
+[submodule "go_diagrams"]
+	path = go_diagrams
+	url = https://github.com/suapapa/go_diagrams
